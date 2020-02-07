@@ -79,6 +79,7 @@ body {
    color: #2E2E30;
    text-transform: uppercase;
    font-weight: bold;
+   cursor: pointer;
 }
 .hero-avatar {
    width: 389px;
